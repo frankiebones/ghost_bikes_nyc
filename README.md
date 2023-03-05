@@ -7,10 +7,12 @@ This project would aim to highlight just how many days of the year are marred by
 
 ![ghost_bike](https://user-images.githubusercontent.com/15967377/222936435-b8017d60-c448-41df-ae42-b8df76f56753.JPG)
 
-Header image and info scraped from [GhostBike.org](http://ghostbikes.org/) using Python and [Beautiful Soup](https://beautiful-soup-4.readthedocs.io/en/latest/) library.
+Header image and info scraped from [GhostBike.org](http://ghostbikes.org/) using Python and [Beautiful Soup](https://beautiful-soup-4.readthedocs.io/en/latest/) library.<br>
 Photo taken from [this West Side Rag article](https://www.westsiderag.com/2023/02/28/deliverista-who-died-on-henry-hudson-bike-path-leaves-shattered-family-gofundme-started).
 
 The landing photo and story would be based on the day of the year, if no matching date it would display the most recent loss.<br>
+Users exploring connections based on things such as age or neighborhood would further highlight the fact that we are all NYers.<br>
+Ultimately a visual network map could be created if enough research was done.<br> 
 
 Some issues to consider:
  - [not everyone has a home](https://bronx.com/bicyclist-micheal-basurto-larino-22-dead-in-a-motor-vehicle-collision/)
@@ -18,6 +20,6 @@ Some issues to consider:
  - [some may not live or work in NYC](http://ghostbikes.org/new-york-city/hern%C3%A1n-mendoza-diego-angelini-alejandro-pagnucco-ariel-erlij-and-hernan-ferruchi)
  - how to display when multiple losses on same day
  
- <a href="https://lookerstudio.google.com/embed/reporting/8d387263-615b-4c0a-9299-57a897b7c0f5/page/ZnNHD">![calendar](https://user-images.githubusercontent.com/15967377/222939422-e4af3233-c7f9-4889-b6b3-782790050aed.JPG)</a><i>static image links to an interactive one</i>
+ <a href="https://lookerstudio.google.com/embed/reporting/8d387263-615b-4c0a-9299-57a897b7c0f5/page/ZnNHD">![calendar](https://user-images.githubusercontent.com/15967377/222939422-e4af3233-c7f9-4889-b6b3-782790050aed.JPG)</a><i>static image - click to make your way to an interactive one</i>
 
  
