@@ -22,4 +22,6 @@ Some issues to consider:
  
  <a href="https://lookerstudio.google.com/embed/reporting/8d387263-615b-4c0a-9299-57a897b7c0f5/page/ZnNHD">![calendar](https://user-images.githubusercontent.com/15967377/222939422-e4af3233-c7f9-4889-b6b3-782790050aed.JPG)</a><i>static image - click to make your way to an interactive one</i>
 
- 
+Some basic exploration shows that while the total ghost bikes per year are on a downward trend, we are seeing an increase in the loss of older cyclists.
+
+![avg_age](https://user-images.githubusercontent.com/15967377/223851327-e9646776-d5fa-47b8-8269-78973c0491f9.JPG)
