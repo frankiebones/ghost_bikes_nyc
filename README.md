@@ -20,6 +20,7 @@ Some issues to consider:
  - [some may not live or work in NYC](http://ghostbikes.org/new-york-city/hern%C3%A1n-mendoza-diego-angelini-alejandro-pagnucco-ariel-erlij-and-hernan-ferruchi)
  - how to display when multiple losses on same day
  
+ We can see a signigant spike on October 31st, Halloween.
  <a href="https://lookerstudio.google.com/embed/reporting/8d387263-615b-4c0a-9299-57a897b7c0f5/page/ZnNHD">![calendar](https://user-images.githubusercontent.com/15967377/222939422-e4af3233-c7f9-4889-b6b3-782790050aed.JPG)</a><i>static image - click to make your way to an interactive one</i>
 
 Some basic exploration shows that while the total ghost bikes per year are on a downward trend, we are seeing an increase in the loss of older cyclists.
